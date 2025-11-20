@@ -172,12 +172,7 @@ jupyter notebook main.ipynb
 ## 👥 Authors
 
 - [Alan Teixeira da Costa](https://github.com/Alan-TC)
-  - Matrícula: 2022100831
-  - Email: alan.costa@edu.ufes.br
-
 - [Miguel Vieira Machado Pim](https://github.com/MiguelPim01)
-  - Matrícula: 2022100894
-  - Email: miguel.pim@edu.ufes.br
 
 ## 📝 License
 
